@@ -831,8 +831,8 @@ a.hvr-radial-out:focus {
 }
 
 .service_blog:hover, .service_blog:focus {
-    box-shadow: 0 0 30px 0 rgba(0,0,0,.2);
-    transform: scale(1.02);
+    /* box-shadow: 0 0 30px 0 rgba(0,0,0,.2); */
+    /* transform: scale(1.02); */
 }
 
 .service_blog h4 {
